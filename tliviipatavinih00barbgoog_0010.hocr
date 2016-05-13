@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih00barbgoog_0010.png"; bbox 0 0 2534 4309; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 927 1769 1623 2072">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 927 1769 1623 2072">
+     <span class='ocr_line' id='line_1_1' title="bbox 927 1769 1623 2072; baseline -0.004 -147"><span class='ocrx_word' id='word_1_1' title='bbox 927 1904 934 1925; x_wconf 88' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1099 2066 1106 2072; x_wconf 10' lang='grc' dir='ltr'><em>θ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1233 1769 1623 1922; x_wconf 61' lang='lat' dir='ltr'><em>&lt;077st</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
